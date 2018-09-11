@@ -3,7 +3,7 @@ package aiven_test
 import (
 	"testing"
 
-	"github.com/jelmersnoeck/aiven/internal/testhelpers"
+	"github.com/gospotcheck/aiven/internal/testhelpers"
 )
 
 func TestBilling(t *testing.T) {

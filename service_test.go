@@ -3,8 +3,8 @@ package aiven_test
 import (
 	"testing"
 
-	"github.com/jelmersnoeck/aiven"
-	"github.com/jelmersnoeck/aiven/internal/testhelpers"
+	"github.com/gospotcheck/aiven"
+	"github.com/gospotcheck/aiven/internal/testhelpers"
 )
 
 func TestService(t *testing.T) {

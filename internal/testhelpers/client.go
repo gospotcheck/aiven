@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/jelmersnoeck/aiven"
+	"github.com/gospotcheck/aiven"
 )
 
 func init() {
